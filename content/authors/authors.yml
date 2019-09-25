@@ -1,8 +1,6 @@
-- name: Dennis Brotzky
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+- name: Susie Kuretski
+  bio: Software engineer by day, grad student at night, gamer, and dachshund mom
+  avatar: ./avatars/susie.jpg
   featured: true
   social:
     - name: github

@@ -1,34 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Susie Jee`,
+    name: `Susie Jee`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Yet another developer blog featuring web development, data science, games, dachshunds, and attempts at baking like the Great British Baking Show`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to SusieJee.com`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/TheSushiQ`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/skuretski`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/sujak12`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+        url: `https://www.linkedin.com/in/skuretski`,
+      }
     ],
   },
   plugins: [
@@ -48,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Susie Jee`,
+        short_name: `Susie Jee`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
