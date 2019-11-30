@@ -1,15 +1,13 @@
 - name: Susie Kuretski
-  bio: Software engineer by day, grad student at night, gamer, and dachshund mom
+  bio: Software engineer by day, grad student by night, gamer, dachshund mom, & amateur chef and baker
   avatar: ./avatars/susie.jpg
   featured: true
   social:
     - name: github
       url: https://github.com
     - name: twitter
-      url: https://github.com
+      url: https://www.twitter.com/TheSushiQ
     - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
+      url: https://www.instagram.com/sujak12/
     - name: linkedin
-      url: https://github.com
+      url: https://www.linkedin.com/in/skuretski
