@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Susie Jee`,
     name: `Susie Jee`,
-    siteUrl: `https://novela.narative.co`,
-    description: `Yet another developer blog featuring web development, data science, games, dachshunds, and attempts at baking like the Great British Baking Show`,
+    siteUrl: `https://www.susiejee.com`,
+    description: `A developer blog featuring web development, data science, games, dachshunds, and attempts at baking like the Great British Baking Show`,
     hero: {
       heading: `Welcome to SusieJee.com`,
       maxWidth: 652,
