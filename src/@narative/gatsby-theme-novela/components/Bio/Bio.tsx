@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import styled from '@emotion/styled';
 import Image from '@narative/gatsby-theme-novela/src/components/Image';
-import { IAuthor } from '@types';
+import { IAuthor } from '@narative/gatsby-theme-novela/src/types';
 
 function Bio({ author }: IAuthor) {
   return (
