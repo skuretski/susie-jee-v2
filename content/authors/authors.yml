@@ -1,6 +1,5 @@
 - name: Susie Kuretski
-  longbio: I am currently working as a full stack software engineer and in graduate school student at the University of Illinois Urbana - Champaign for data science. I had a past life as an intensive care nurse where I pushed a good amount of epinephrine and witnessed some truly amazing things. In my down time, I enjoy cooking and baking, entertaining my rescued dachshund mix Zelda, and playing video and tabletop games with my husband and friends.   
-  bio: Software engineer by day, grad student by night, gamer, dachshund mom, and amateur chef and baker
+  bio: Software engineer by day, grad student by night, retired nurse, gamer, dachshund mom, and amateur chef and baker
   avatar: ./avatars/susie.jpg
   featured: true
   social:
