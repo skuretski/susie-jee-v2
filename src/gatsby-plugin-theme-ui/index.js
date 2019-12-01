@@ -6,6 +6,7 @@ export default {
   colors: {
     prism: novelaTheme.prism,
     accent: '#D5637B',
+    accentDark: 'BC1A3C',
     primary: '#303030',
     secondary: '#73737D',
     grey: '#474747',
@@ -27,6 +28,7 @@ export default {
         primary: "#fff",
         secondary: "#fff",
         accent: "#D5637B",
+        accentDark: '#BC1A3C',
         background: "#232424",
         hover: "rgba(255, 255, 255, 0.07)",
         gradient:
