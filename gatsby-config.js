@@ -18,10 +18,6 @@ module.exports = {
         url: `https://github.com/skuretski`,
       },
       {
-        name: `instagram`,
-        url: `https://instagram.com/sujak12`,
-      },
-      {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/skuretski`,
       }
