@@ -1,4 +1,4 @@
-- name: Susie Kuretski
+- name: Susie Jee
   bio: Software engineer by day, grad student by night, retired nurse, gamer, dachshund mom, amateur chef & baker
   avatar: ./avatars/susie.jpg
   featured: true
@@ -7,7 +7,5 @@
       url: https://github.com
     - name: twitter
       url: https://www.twitter.com/TheSushiQ
-    - name: instagram
-      url: https://www.instagram.com/sujak12/
     - name: linkedin
       url: https://www.linkedin.com/in/skuretski

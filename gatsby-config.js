@@ -31,6 +31,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: true,
+        mailchimp: true,
         sources: {
           local: true,
           // contentful: true,
@@ -55,5 +56,12 @@ module.exports = {
         trackingId: "UA-167859297-1",
       },
     },
+    {
+      resolve: `gatsby-plugin-mailchimp`,
+      options: {
+        endpoint: 'https://susiejee.us4.list-manage.com/subscribe/post?u=827ae988a4112fc85e7b9b317&amp;id=57253c8499',
+        timeout: 3500
+      }
+    }
   ],
 };
